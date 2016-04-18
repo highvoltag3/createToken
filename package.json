@@ -1,0 +1,16 @@
+{
+  "name": "firebase-live-rbn",
+  "version": "0.0.1",
+  "description": "Lambda Firebase token generator",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.2.41",
+    "firebase-token-generator": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dario Novoa",
+  "license": "MIT"
+}
